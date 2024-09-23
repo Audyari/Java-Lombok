@@ -28,3 +28,5 @@
 23:01:47.913 1250 [main] INFO  P.B.B.J.L.U.D.E.CustomerDTest - 2897698
 23:02:29.502 1095 [main] INFO  P.B.B.J.L.U.D.E.CustomerDTest - 47724
 23:02:29.504 1097 [main] INFO  P.B.B.J.L.U.D.E.CustomerDTest - 47724
+12:48:06.261 1265 [main] ERROR P.B.B.J.L.UPDATE.L.log.FileHelperL - testing log pake lombok : data gk ada.xml 
+12:48:51.198 813  [main] ERROR P.B.B.J.L.UPDATE.L.log.FileHelperL - testing log pake lombok : pom.xml 
